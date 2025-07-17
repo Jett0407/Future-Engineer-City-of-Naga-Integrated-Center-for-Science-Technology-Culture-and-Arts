@@ -15,7 +15,8 @@ This repository documents every step of our project development — from concept
 
 🎥 Final Presentation: Media from our final presentation — including photos and videos from the competition.
 
-👥 Team Members
+👥 Team Members:
+
 Jay Eternity A. Tomabiao – Team Leader, Hardware Specialist, Software Developer
 
 Armand Jay D. Tomabiao – Design Engineer, Builder
