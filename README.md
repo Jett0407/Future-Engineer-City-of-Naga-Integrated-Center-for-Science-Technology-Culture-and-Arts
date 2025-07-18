@@ -17,9 +17,9 @@ This repository documents every step of our project development — from concept
 
 👥 Team Members:
 
-Jay Eternity A. Tomabiao – Team Leader, Hardware Specialist, Software Developer
-
+Jay Eternity A. Tomabiao – Team Leader, Software Developer
 Armand Jay D. Tomabiao – Design Engineer, Builder
+Jonavae Baclaan - Hardware Specialist
 
 🙏 Acknowledgments
 We extend our heartfelt gratitude to our mentors, sponsors, and the organizers of the Philippine Robotics Olympiad for their support and guidance throughout this incredible journey.
