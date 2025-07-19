@@ -1,8 +1,11 @@
 🚀 Welcome to Our Future Engineers Journey – Philippine Robotics Olympiad (PRO)
+
 About the Contest
+
 The Future Engineers category in the Philippine Robotics Olympiad (PRO) is a prestigious competition that challenges teams to design, build, and program innovative robotic solutions. This year’s theme centers on self-driving cars, pushing the boundaries of our creativity, engineering, and technical skills.
 
 Our Journey
+
 This repository documents every step of our project development — from concept to competition. Explore the sections below to follow our process:
 
 🧠 Project Planning: Brainstorming sessions, timeline development, and task delegation.
@@ -18,8 +21,11 @@ This repository documents every step of our project development — from concept
 👥 Team Members:
 
 Jay Eternity A. Tomabiao – Team Leader, Software Developer
-Armand Jay D. Tomabiao – Design Engineer, Builder
+
+Armand Jay D. Roullo – Design Engineer, Builder
+
 Jonavae Baclaan - Hardware Specialist
 
 🙏 Acknowledgments
+
 We extend our heartfelt gratitude to our mentors, sponsors, and the organizers of the Philippine Robotics Olympiad for their support and guidance throughout this incredible journey.
